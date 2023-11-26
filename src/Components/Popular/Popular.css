@@ -1,0 +1,45 @@
+.Popular {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 99vh;
+    flex-direction: column;
+}
+
+.Popular h1 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #141313;
+    text-align: center;
+}
+
+.Popular hr {
+    width: 200px;
+    height: 6px;
+    background-color: #141313;
+    border-radius: 10px;
+}
+
+.Popular-item {
+    display: flex;
+    margin-top: 120px;
+    gap: 700px;
+    align-items: center;
+    font-size: 70px;
+}
+
+.Popular-item img {
+    width: 1000px;
+    height: 1200px;
+    margin-right: 90px;
+}
+
+.product-details {
+    font-size: 40px;
+
+}
+.product-details div {
+    font-size: 45px; 
+    margin-bottom: 10px; 
+
+}

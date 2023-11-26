@@ -1,0 +1,70 @@
+.offers {
+    width: 100%;
+    margin: 0 auto;
+    height: 60vh;
+    padding: 40px 140px;
+    margin-bottom: 150px;
+    background: linear-gradient(180deg, #dbb88d 0%, #e1ffea22 90%);
+    display: flex;
+}
+
+.offers-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 110px;
+    align-items: center;
+
+}
+
+.offers-left h1 {
+    font-size: 130px;
+    font-weight: 600;
+    color: #070707;
+    margin-top: -90px;
+    margin-left: 600px;
+
+
+    
+}
+.offers-left p {
+    font-size: 60px;
+    font-weight: 400;
+    color: #141313;
+    margin-top: -80px;
+    margin-left: 600px;
+   
+}
+
+.offers-left button {
+    width: 500px;
+    height: 120px;
+    background-color: #7d7676;
+    color: #fffefe;
+    border: none;
+    border-radius: 50px;
+    font-size: 50px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 8px;
+    margin-left: 600px;
+   
+}
+
+.offers-right {
+    flex: 1; 
+    display: flex;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-top: 700px;
+    height: 850px;
+    
+}
+
+.offers-right img {
+    max-width: 1600px; 
+    max-height: 1890px; 
+    height: 1600px;
+    margin-right: 700px;
+}
