@@ -11,7 +11,7 @@ const Footer = () => {
         <footer className='footer'>
             <div className="footer-logo">
                 <img src={footerLogo}alt=""/>
-                <p>Factory Outlet</p>
+                <p>FACTORY OUTLET</p>
             </div>
             <ul className="footer-links">
                 <li>Compnay</li>
